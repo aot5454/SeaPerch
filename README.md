@@ -1,4 +1,4 @@
-# SeaPerch
+# Class Introduction to Robotics NU 2020
 
 ## All Group in Class
 ![GitHub Logo](All-group.jpg)
