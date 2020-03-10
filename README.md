@@ -8,3 +8,6 @@
 
 ## Circuit diagram
 ![GitHub Logo](sea_bb.png)
+
+## Circuit diagram
+![GitHub Logo](flowchart.png)
